@@ -12,3 +12,6 @@ pages:
     - public
   only:
   - master
+
+  variables:
+    GIT_SUBMODULE_STRATEGY: normal
