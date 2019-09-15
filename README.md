@@ -42,3 +42,6 @@ Toutes les cartes sont dans `./sources4kyb/data/items.toml`. Pour chaque carte, 
 ## Pour la suite
 Une fois qu'on est là, et que le job est terminé, pour une mise en prod il suffira de faire tout pareil, et rediriger le port 1313 avec NginX vers où on voudra!
 
+
+## TODO
+- Caler les bonnes polices
