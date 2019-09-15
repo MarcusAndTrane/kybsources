@@ -18,7 +18,7 @@ theme = "hugrid"
     buttontext = "Our other stuff"
 
     # Footer text
-    footertext = "Addapted by [Marcus & Trane](http://marcusandtrane.com). Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+    footertext = "Addapted by [Marcus & Trane](http://marcusandtrane.com). Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [Pavel Kanyshev](https://github.com/aerohub)"
 
     # add extra-css
     # custom_css = ['css/extra1.css', 'css/extra2.css']
