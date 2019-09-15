@@ -5,10 +5,10 @@ theme = "hugrid"
 
 [params]
     # Meta
-    title = "Sources of Know Your Bias"
-    subtitle = "It's not because it's a game that we should not take it seriously"
+    title = "Sources de Know Your Bias"
+    subtitle = "C'est pas parce que c'est un peu qu'on ne devrait pas le prendre au sérieux!"
     author = "Marcus & Trane"
-    description = "You'll find here peer reviewed articles describing all bias we put in our game"
+    description = "Vous trouverez ici la documentation sur laquelle nous avons basé notre jeu."
     keywords = "Know your bias, KYB, biais, Marcus & Trane, cardes, "
 
     # Body background color
