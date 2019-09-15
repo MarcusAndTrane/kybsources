@@ -45,6 +45,8 @@ Pour un rendu comme ça:
 
 Je propose la convention [APA](http://www.bibme.org/citation-guide/apa/) pour le format des citations (American Psychology Association, TMTCBB)
 
+Pour ce qui est du fonctionnement à proporement dit, rejoignez gitlab et le repo. Ensuite, pour les merge request, il y a un très bon [tuto dans la doc de GitLab](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)
+
 ## Pour la suite
 Une fois qu'on est là, et que le job est terminé, pour une mise en prod il suffira de faire tout pareil, et rediriger le port 1313 avec NginX vers où on voudra!
 
