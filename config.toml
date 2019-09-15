@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sources of Know Your Bias"
+theme = "hugrid"
+
+[params]
+    # Meta
+    title = "Sources of Know Your Bias"
+    subtitle = "It's not because it's a game that we should not take it seriously"
+    author = "Marcus & Trane"
+    description = "You'll find here peer reviewed articles describing all bias we put in our game"
+    keywords = "Know your bias, KYB, biais, Marcus & Trane, cardes, "
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Our other stuff"
+
+    # Footer text
+    footertext = "Addapted by [Marcus & Trane](http://marcusandtrane.com). Made by [Codrops](http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/), [Hugo](http://gohugo.io) and [me](https://github.com/aerohub)"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
