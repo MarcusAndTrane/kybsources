@@ -2,7 +2,7 @@
 image: monachus/hugo
 
 variables:
-  GIT_SUBMODULE_STRATEGY: recursive
+  GIT_SUBMODULE_STRATEGY: normal
 
 pages:
   script:
@@ -12,6 +12,3 @@ pages:
     - public
   only:
   - master
-
-variables:
-  GIT_SUBMODULE_STRATEGY: normal
