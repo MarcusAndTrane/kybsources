@@ -28,7 +28,7 @@ cd sources4kyb
 hugo server
 ```
 
-Ensuite plus qu'à aller voir sur [http://localhost:1313/](http://localhost:1313/)
+Ensuite plus qu'à aller voir sur [http://localhost:1313/sources4kyb/](http://localhost:1313/sources4kyb/)
 
 ## Et pour contribuer, mon con, on fait comment?
 Et bah c'est très simple, personne très malpolie...
