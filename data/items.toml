@@ -3,7 +3,10 @@ title = "Biais de négativité"
 image = "images/full/0.png"
 thumb = "images/thumbs/0.png"
 alt = "Biais de négativité"
-description = "[1] Rozin, Paul; Royzman, Edward B. (2001). 'Negativity bias, negativity dominance, and contagion'. Personality and Social Psychology Review 5(4). 296–320. doi:10.1207/S15327957PSPR0504_2 <br>[2] Baumeister, Roy F.; Finkenauer, Catrin; Vohs, Kathleen D. (2001). 'Bad is stronger than good'. Review of General Psychology 5(4). 323–370. doi:10.1037/1089-2680.5.4.323 <br>[3] Ito, Tiffany A.; Larsen, Jeff T.; Smith, N. Kyle; Cacioppo, John T. (1998). 'Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations'. Journal of Personality and Social Psychology 75(4), 887–900. doi:10.1037/0022-3514.75.4.887"
+description = """
+[1] Rozin, Paul; Royzman, Edward B. (2001). 'Negativity bias, negativity dominance, and contagion'. Personality and Social Psychology Review 5(4). 296–320. doi:10.1207/S15327957PSPR0504_2
+<br>[2] Baumeister, Roy F.; Finkenauer, Catrin; Vohs, Kathleen D. (2001). 'Bad is stronger than good'. Review of General Psychology 5(4). 323–370. doi:10.1037/1089-2680.5.4.323
+<br>[3] Ito, Tiffany A.; Larsen, Jeff T.; Smith, N. Kyle; Cacioppo, John T. (1998). 'Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations'. Journal of Personality and Social Psychology 75(4), 887–900. doi:10.1037/0022-3514.75.4.887"""
 url = "http://marcusandtrane.com/projects.html"
 [[items]]
 title = "Confusion des sources"
