@@ -34,13 +34,18 @@ Ensuite plus qu'à aller voir sur [http://localhost:1313/sources4kyb/](http://lo
 Et bah c'est très simple, personne très malpolie...
 Toutes les cartes sont dans `./sources4kyb/data/items.toml`. Pour chaque carte, il suffit me modifier le champ `description = "ta source ici"`. Et par soucis de présentation, on pourrait partir sur des trucs de ce goût là:
 ```
-[1] la source numero 1 <br>[2] la source numero 2
+"""
+[1] la source numero 1 
+<br>[2] la source numero 2
+<br>[3] la source numero 3
+"""
 ```
 
 Pour un rendu comme ça:
 ```
 [1] la source numero 1 
 [2] la source numero 2
+[3] la source numero 3
 ```
 
 Je propose la convention [APA](http://www.bibme.org/citation-guide/apa/) pour le format des citations (American Psychology Association, TMTCBB)
