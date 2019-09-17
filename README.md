@@ -57,4 +57,4 @@ Une fois qu'on est là, et que le job est terminé, pour une mise en prod il suf
 
 
 ## TODO
-- Caler les bonnes polices
+- ~~Caler les bonnes polices~~
