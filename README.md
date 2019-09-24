@@ -18,7 +18,7 @@ Je sais pas trop comment ça marche, mais il y a un tuto dans la doc [ICI](https
 ## Pecho le site en local...
 
 ```
-git clone https://gitlab.com/Wyoc/sources4kyb.git
+git clone https://github.com/MarcusAndTrane/KyBSources
 cd sources4kyb
 ```
 
