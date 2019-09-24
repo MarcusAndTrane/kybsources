@@ -3,18 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
-    <priority>0</priority>
+    <loc>https://wyoc.gitlab.io/sources4kyb/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <priority>0</priority>
+    <loc>https://wyoc.gitlab.io/sources4kyb/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
+    <loc>https://wyoc.gitlab.io/sources4kyb/tags/</loc>
   </url>
   
 </urlset>

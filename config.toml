@@ -2,7 +2,7 @@ baseURL = "https://wyoc.gitlab.io/sources4kyb/"
 languageCode = "en-us"
 title = "Sources of Know Your Bias"
 theme = "hugrid"
-publishdir = "docs"
+publishDir = "docs"
 
 [params]
     # Meta
